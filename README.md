@@ -30,7 +30,7 @@ Make a guess: 80
 You were above the number!
 Make a guess: 77
 You were above the number!
-Make a guess: 76
+Make a guess: 100
 You got it!
 You got it in 7 guesses
 ```
